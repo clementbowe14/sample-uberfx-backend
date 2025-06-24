@@ -1,2 +1,9 @@
 # sample-uberfx-backend
-sample todo list backend using uber fx for dependency injection
+Sample todo list backend using Uber FX for dependency injection
+
+tech stack
+backend
+uberfx
+postrgesql
+go
+
