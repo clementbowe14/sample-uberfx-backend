@@ -1,2 +1,2 @@
 # sample-uberfx-backend
-sample todo list backend using uber fx as a backe
+sample todo list backend using uber fx for dependency injection
